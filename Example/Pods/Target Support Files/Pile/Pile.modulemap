@@ -1,0 +1,6 @@
+framework module Pile {
+  umbrella header "Pile-umbrella.h"
+
+  export *
+  module * { export * }
+}
